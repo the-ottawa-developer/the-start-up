@@ -33,7 +33,7 @@
                 </svg>
               </div>
 
-              <span class="ml-3 text-gray-200 font-bold text-lg">Lansdowne Two Point Oh</span>
+              <span class="ml-3 text-gray-200 font-bold text-lg">Better Ottawa</span>
             </nuxt-link>
           </nav>
         </div>
