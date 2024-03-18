@@ -1,7 +1,7 @@
 {
   "name": "nuxt-app",
-  "private": true,
   "type": "module",
+  "private": true,
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -10,13 +10,14 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/ui-pro": "^1.0.2",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.8.3",
-    "nuxt": "^3.11.0",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
-    "eslint": "^8.57.0"
+    "eslint": "^8.57.0",
+    "nuxt": "^3.11.0"
   }
 }
